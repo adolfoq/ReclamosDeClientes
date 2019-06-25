@@ -2,17 +2,17 @@ CASO DE USO DE NEGOCIO
 
 ¿Cómo pueden gestionar las reclamaciones?
 
- https://www.tecnologias-informacion.com/datalake.jpg
+ 
 
 Ahora con un enfoque donde se usan datos estructurados y no estructurados toda la información es condensada en un solo lugar de manera accesible y amigable para el usuario. Además, este modelo supone una adhesión a los CRMs ya existentes sin resultar invasivo o sustituirlos, resultando así en una sinergia de información para analizar.
 
-https://www.analiticanegocios.com/wp-content/uploads/2018/10/sinestruct.png
+
 
 Como podemos observar, el tener el conocimiento de la causa verdadera y la raíz del problema nos da la ventaja de entender realmente a nuestro cliente. Concretamente al identificar la causa raíz de las reclamaciones, pueden corregirse procesos para evitar que el problema vuelva a producirse en el futuro y así brindar transparencia, confianza y por ende un valor añadido para la empresa ya que mejora la satisfacción del cliente que como sabemos es esencial para una compañía.
 
  
 
-quejas y reclamaciones
+Quejas y reclamaciones
 
 Aplicar el Big Data en la atención al cliente no es una quimera ni tampoco algo que esté al alcance de pocos. Todos manejamos en nuestras empresas cierto volumen de información susceptible de ser usada para mejorar la atención a los clientes. El problema es que no somos conscientes de ello y/o no tenemos las herramientas adecuadas para explotar de forma adecuada esos datos.
 
@@ -60,7 +60,4 @@ Las diferentes reclamaciones que se realizan en diferentes formatos que estan al
 PERFILES DE BIG DATA NECESARIOS
 
  
-
-https://cdn-images-1.medium.com/max/1000/0*Kj9IS7Ctj9-O-pKF.pnghttps://cdn-images-1.medium.com/max/1000/0*Kj9IS7Ctj9-O-pKF.pnghttps://cdn-images-1.medium.com/max/1000/0*Kj9IS7Ctj9-O-pKF.png
-
  
