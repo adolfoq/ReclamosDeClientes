@@ -2,6 +2,7 @@ CASO DE USO DE NEGOCIO
 ----------------------
 ¿Cómo pueden gestionar las reclamaciones?
 ----------------------------------------
+
 - Ahora con un enfoque donde se usan datos estructurados y no estructurados toda la información es condensada en un solo lugar de manera accesible y amigable para el usuario. Además, este modelo supone una adhesión a los CRMs ya existentes sin resultar invasivo o sustituirlos, resultando así en una sinergia de información para analizar.
  
 - Como podemos observar, el tener el conocimiento de la causa verdadera y la raíz del problema nos da la ventaja de entender realmente a nuestro cliente. Concretamente al identificar la causa raíz de las reclamaciones, pueden corregirse procesos para evitar que el problema vuelva a producirse en el futuro y así brindar transparencia, confianza y por ende un valor añadido para la empresa ya que mejora la satisfacción del cliente que como sabemos es esencial para una compañía.
