@@ -22,7 +22,8 @@ Solo es cuestión de fijarse bien en los datos: qué hace cada cliente, cómo ev
 ---
 USO DE LAS 3 VS
 
---
+![3vs](https://user-images.githubusercontent.com/13352022/60151309-e6401900-97a1-11e9-8187-e625fa5df759.PNG)
+
 PERFILES DE BIG DATA NECESARIOS
 --
    
