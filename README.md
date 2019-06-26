@@ -1,7 +1,7 @@
-CASO DE USO DE NEGOCIO 
-----------------------
-¿Cómo pueden gestionar las reclamaciones?
-----------------------------------------
+#CASO DE USO DE NEGOCIO 
+
+##¿Cómo pueden gestionar las reclamaciones?
+
 
 - Ahora con un enfoque donde se usan datos estructurados y no estructurados toda la información es condensada en un solo lugar de manera accesible y amigable para el usuario. Además, este modelo supone una adhesión a los CRMs ya existentes sin resultar invasivo o sustituirlos, resultando así en una sinergia de información para analizar.
 ![] (image001.jpg)
@@ -14,12 +14,10 @@ Y lo cierto es que bien empleado, el Big Data es una potente fuente de conocimie
 
 Solo es cuestión de fijarse bien en los datos: qué hace cada cliente, cómo evoluciona su negocio, su facturación, cuáles son las demandas que genera, reclamaciones o incidencias. Toda esta información la tienes en tus programas de atención, de facturación, CRM. Lo que hace falta es que la analices y extraigas los aprendizajes correspondientes.
 
-¿POR QUÉ BIG DATA?
-------------------
-USO DE LAS 3 VS
----------------
+##¿POR QUÉ BIG DATA?
+###USO DE LAS 3 VS
 
-PERFILES DE BIG DATA NECESARIOS
+##PERFILES DE BIG DATA NECESARIOS
 
    
 
