@@ -12,7 +12,8 @@ CASO DE USO DE NEGOCIO
  
 - Aplicar el Big Data en la atención al cliente no es una quimera ni tampoco algo que esté al alcance de pocos. Todos manejamos en nuestras empresas cierto volumen de información susceptible de ser usada para mejorar la atención a los clientes. El problema es que no somos conscientes de ello y/o no tenemos las herramientas adecuadas para explotar de forma adecuada esos datos.
 Y lo cierto es que bien empleado, el Big Data es una potente fuente de conocimiento que tras su ulterior análisis nos puede aportar claves tanto para mejorar las estrategias de marketing y comunicación, como de producción, gerencia, ventas,…. y también en la atención al cliente.
-*A partir es esos datos se puede personalizar la atención para cada cliente, anticiparse a sus necesidades o proponerle mejoras que tú ya sabes que va a necesitar en poco tiempo.*
+A partir es esos datos se puede personalizar la atención para cada cliente, anticiparse a sus necesidades o proponerle mejoras que tú ya sabes que va a necesitar en poco tiempo.
+
 ![image005](https://user-images.githubusercontent.com/13352022/60151114-294dbc80-97a1-11e9-9b90-8c1e475ec0f8.jpg)
 
 Solo es cuestión de fijarse bien en los datos: qué hace cada cliente, cómo evoluciona su negocio, su facturación, cuáles son las demandas que genera, reclamaciones o incidencias. Toda esta información la tienes en tus programas de atención, de facturación, CRM. Lo que hace falta es que la analices y extraigas los aprendizajes correspondientes.
@@ -20,6 +21,7 @@ Solo es cuestión de fijarse bien en los datos: qué hace cada cliente, cómo ev
 ¿POR QUÉ BIG DATA?
 ---
 USO DE LAS 3 VS
+
 --
 PERFILES DE BIG DATA NECESARIOS
 --
