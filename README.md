@@ -2,6 +2,7 @@ CASO DE USO DE NEGOCIO
 ----------------------
 ¿Cómo pueden gestionar las reclamaciones?
 -----------------------------------------
+![image001](https://user-images.githubusercontent.com/13352022/60151064-ef7cb600-97a0-11e9-8020-5880ad29f107.jpg)
 
 - Ahora con un enfoque donde se usan datos estructurados y no estructurados toda la información es condensada en un solo lugar de manera accesible y amigable para el usuario. Además, este modelo supone una adhesión a los CRMs ya existentes sin resultar invasivo o sustituirlos, resultando así en una sinergia de información para analizar.
 ![] (image001.jpg)
