@@ -35,3 +35,5 @@ PERFILES DE BIG DATA NECESARIOS
 
 Tamaño de la generación de data por minuto, hora, día y mes
 ---
+![Sizing](https://user-images.githubusercontent.com/13352022/60317043-e15e9f00-9932-11e9-8e52-6d9a90d9956b.PNG)
+
